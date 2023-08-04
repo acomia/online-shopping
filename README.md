@@ -17,7 +17,7 @@ An online shopping store built using React and TypeScript. The project allows us
 
 Clone the repository:
 
-git clone [https://github.com/your-username/online-shopping-store.git](https://github.com/acomia/online-shopping.git)
+git clone https://github.com/acomia/online-shopping.git
 
 Navigate to the project directory:
 
