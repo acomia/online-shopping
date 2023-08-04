@@ -2,7 +2,7 @@
 
 An online shopping store built using React and TypeScript. The project allows users to browse available items, add them to their cart, adjust quantities, and proceed to checkout.
 
-![Screenshot](Screenshot.png)
+![Screenshot](src/Screenshot.png)
 
 ## Features
 
@@ -17,7 +17,7 @@ An online shopping store built using React and TypeScript. The project allows us
 
 Clone the repository:
 
-git clone https://github.com/your-username/online-shopping-store.git
+git clone [https://github.com/your-username/online-shopping-store.git](https://github.com/acomia/online-shopping.git)
 
 Navigate to the project directory:
 
