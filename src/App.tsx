@@ -2,14 +2,12 @@ import React, { useEffect, useState } from 'react';
 import Header from './components/Header';
 import ItemList from './components/ItemList';
 import Cart from './components/Cart';
-import CheckoutModal from './components/CheckoutModal';
 import { Item, CartItems } from './types';
 import itemsData from './data/items.json'
 import './styles.css'
 
 const App: React.FC = () => {
   const [cartItems, setCartItems] = useState<CartItems[]>([]);
-  const [showCheckoutModal, setShowCheckoutModal] = useState<boolean>(false);
 
   useEffect(() => {
     const storedCartItems = localStorage.getItem('cartItems');

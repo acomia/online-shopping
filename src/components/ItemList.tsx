@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Item } from '../types'; // Import the Item type
+import { Item } from '../types';
 import SearchBar from './SearchBar';
 
 interface ItemListProps {
