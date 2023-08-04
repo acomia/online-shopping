@@ -21,7 +21,7 @@ git clone https://github.com/acomia/online-shopping.git
 
 Navigate to the project directory:
 
-  cd online-shopping-store
+  cd online-shopping
 
 Install dependencies:
 
