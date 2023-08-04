@@ -1,6 +1,3 @@
-# online-shopping
-Online Shopping Store
-
 # Online Shopping Store
 
 An online shopping store built using React and TypeScript. The project allows users to browse available items, add them to their cart, adjust quantities, and proceed to checkout.
