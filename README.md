@@ -2,7 +2,7 @@
 
 An online shopping store built using React and TypeScript. The project allows users to browse available items, add them to their cart, adjust quantities, and proceed to checkout.
 
-![Screenshot](./Screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Features
 
@@ -21,15 +21,16 @@ git clone https://github.com/your-username/online-shopping-store.git
 
 Navigate to the project directory:
 
-cd online-shopping-store
+  cd online-shopping-store
 
 Install dependencies:
 
-npm install
+  npm install
 
-Usage
+## Usage
+
 Start the development server:
 
-npm start
+  npm start
 
 Open your web browser and go to http://localhost:3000 to access the application.
